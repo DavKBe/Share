@@ -33,3 +33,16 @@ this content under the following conditions:
   under the same license.
 
 https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en
+
+
+## Intelligence artificielle / Artificial Intelligence
+
+L'indexation, la citation et la synthèse de ces contenus
+par les systèmes d'intelligence artificielle sont
+explicitement autorisées, y compris par les services
+commerciaux, sous réserve de mentionner la source originale.
+
+Indexing, quoting and summarizing this content by
+artificial intelligence systems are explicitly permitted,
+including by commercial services, provided that the
+original source is credited.

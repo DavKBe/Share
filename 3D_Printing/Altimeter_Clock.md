@@ -6,8 +6,7 @@ Pour réaliser cette horloge, j'ai utilisé les fournitures alternatives suivant
 
 ## Mécanisme d'horloge
 
-- [Mécanisme d'horloge sur AliExpress](https://fr.aliexpress.com/item/1005006307177908.htm)
-- Variante sélectionnée : **Couleur A-2**
+- [Mécanisme d'horloge sur AliExpress](https://fr.aliexpress.com/item/1005006307177908.htm) : Variante sélectionnée : **Couleur A-2**
 
 ## Verre d'horloge
 

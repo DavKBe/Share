@@ -1,6 +1,3 @@
-# Share
-Sharing things
-
 ## Licence / License
 
 © 2026 — [DavKBe]
